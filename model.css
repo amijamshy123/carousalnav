@@ -1,0 +1,36 @@
+
+
+.btn-primary{
+    background-color: purple;
+    border-color: purple;
+    
+}
+.btn-primary:hover{
+    color: purple;
+    background-color: purple;
+}
+@media screen {
+    
+}
+.model-content{
+    background-color: white;
+}
+.myinput{
+    border-style: none;
+}
+body{
+    padding: 2px;
+}
+img{
+    width:100%;
+    padding: 3px;
+    height: 455px;
+}
+h1,button{
+    color: purple;
+}
+.b1:hover{
+    background-color: purple;
+    color:white;
+
+}
